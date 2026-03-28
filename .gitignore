@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+*.csv
+search_history.json
